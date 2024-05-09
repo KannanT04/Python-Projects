@@ -20,11 +20,11 @@ Python for Data Cleaning, Data Transformation, and Data Visualization 🐍
 Pandas for creating DataFrames, handling NA values, and reading source files 🐼
 
 ## Key Metrics:
-Occupancy% for each Room Category 🛏️
-Occupancy% in each City 🌆
-Occupancy% on Weekdays and Weekends 📅
-Revenue realized per City 💰
-Revenue realized per hotel type 🏨
-Revenue realized per Booking Platforms 📱
-Average Rating per City ⭐
+* Occupancy% for each Room Category 🛏️
+* Occupancy% in each City 🌆
+* Occupancy% on Weekdays and Weekends 📅
+* Revenue realized per City 💰
+* Revenue realized per hotel type 🏨
+* Revenue realized per Booking Platforms 📱
+* Average Rating per City ⭐
 
